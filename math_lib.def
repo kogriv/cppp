@@ -1,0 +1,3 @@
+LIBRARY math_lib
+EXPORTS
+    add
